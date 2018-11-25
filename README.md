@@ -1,5 +1,8 @@
 # roadmap
-The roadmap for the Python Users Benin Group
+<p align="center">
+<img src="logo.png">
+</p>
+The roadmap for the Python Benin Users Group
 > The purposes of the roadmap is to let everyone understand the direction the Python Users Benin Group is heading in both the short term and long term.
 
 - [ ] Buy a domain name [pythonbenin.org](https://pythonbenin.org)
