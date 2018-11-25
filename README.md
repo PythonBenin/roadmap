@@ -1,7 +1,9 @@
-# roadmap
 <p align="center">
 <img src="logo.png">
 </p>
+
+# roadmap
+
 The roadmap for the Python Benin Users Group
 > The purposes of the roadmap is to let everyone understand the direction the Python Users Benin Group is heading in both the short term and long term.
 
