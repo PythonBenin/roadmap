@@ -19,4 +19,4 @@ The roadmap for the Python Benin Users Group
 - [ ] Define the style of meetings for the group
 - [ ] Create a chapter on [Meetup.com](https://meetup.com)
 - [ ] Define a Code of Conduct for Python Users Benin Group
-- [ ] Organise the first meetup!
+- [ ] Organize the first meetup!
