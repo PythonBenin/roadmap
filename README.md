@@ -7,8 +7,8 @@
 The roadmap for the Python Benin Users Group
 > The purposes of the roadmap is to let everyone understand the direction the Python Users Benin Group is heading in both the short term and long term.
 
-- [x] Buy a domain name [pythonbenin.org](https://pythonbenin.org)
-- [ ] Set up a website for [pythonbenin.org](https://pythonbenin.org)
+- [x] Buy a domain name [pythonbenin.com](https://pythonbenin.com)
+- [ ] Set up a website for [pythonbenin.com](https://pythonbenin.com)
 - [ ] Set up a Medium Blog for Python Users Benin Group
 - [ ] Create a mailing list for Python Users Benin Group
 - [ ] Create a Slack Group for Python Users Benin Group
