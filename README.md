@@ -9,8 +9,8 @@ The roadmap for the Python Benin Users Group
 
 - [x] Buy a domain name [pythonbenin.com](https://pythonbenin.com)
 - [x] Set up a website for [pythonbenin.com](https://pythonbenin.com)
-- [ ] Set up a Medium Blog for Python Users Benin Group
-- [ ] Create a mailing list for Python Users Benin Group
+- [x] Set up a Medium Blog for Python Users Benin Group
+- [x] Create a mailing list for Python Users Benin Group
 - [x] Create a Slack Group for Python Users Benin Group
 - [x] Create a Github Organization for Python Users Benin Group
 - [ ] Set up a Facebook Group for Python Users Benin Group
@@ -19,5 +19,5 @@ The roadmap for the Python Benin Users Group
 - [ ] Define the style of meetings for the group
 - [ ] Create a chapter on [Meetup.com](https://meetup.com)
 - [x] Define a Code of Conduct for Python Users Benin Group
-- [ ] Organize the first meetup!
+- [x] Organize the first meetup!
 - [ ] Create a job board for Python Developers
